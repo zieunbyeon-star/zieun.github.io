@@ -10,22 +10,22 @@ sidebar:
   # Profile information
   name: Jieun Byeon
   tagline: Great woman
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: pic.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
+  email: zieunbyeon@gmail.com
+  phone: 010 0000 0000
+  timezone: Korea Standard Time (UTC+9)
+  citizenship: South Korea
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  linkedin: none
+  xing: none
+  github: zieunbyeon-star
+  telegram: none
+  gitlab:none
+  bitbucket: none
+  bluesky: none # Specify your full Bluesky handle
+  twitter: none
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,28 +37,28 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Korean
       level: Native
 
-    - idiom: French
-      level: Professional
+    - idiom: English
+      level: Not bad
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: Deutsch
+      level: Bad
 
   interests:
     title: Interests
     info:
-    - item: Climbing
-      link:
+    - item: Playing guitar
+      link: 면접때 연주해드립니다
 
 
-    - item: Snowboarding
-      link:
+    - item: Watching Mukbang
+      link: I recommend Ddeonggae
 
 
-    - item: Cooking
-      link:
+    - item: Kaffee trinken
+      link: I recommand Tuttotonto
 
 
 career-profile:
@@ -73,9 +73,9 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: BSc in chemical engineering
+    university: Konkuk university in Seoul
+    time: 2022 - 2027
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -84,24 +84,14 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Lead Guitar
+    time: 2023 - Present
+    company: Konkuk univ band
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
